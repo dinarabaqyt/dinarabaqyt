@@ -1,5 +1,3 @@
-https://img.shields.io/badge/Postman-API%20Testing-orange
-
 # # Howdy! I'm Dinara 👋
 
 📬 **Find me here:**
