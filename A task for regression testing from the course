@@ -1,0 +1,10 @@
+Task
+By accessing the following link:
+https://docs.google.com/spreadsheets/d/18hF7QGvg9cboOPbg33zine3LtYObTo54UfsqMvgeBlo/edit?usp=sharing, you will find a test dataset containing test cases with associated titles, priorities, automation statuses, and bug detection frequencies based on execution results across multiple iterations.
+
+Your objective is to determine which test cases should be included in the regression test suite.
+
+To complete the task, please follow the link, select the test cases that should be part of the regression suite, and submit the link to your finalized document in your response. You may also provide a rationale for your selections if desired.
+
+My solution is provided via the following Google Drive link:
+https://docs.google.com/spreadsheets/d/1Xx7WPsmN0C60UlQie0SguknGAgc8iZvnEr6fkzl1pGo/edit?usp=sharing
