@@ -82,3 +82,24 @@ Let’s build something meaningful together!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📝 Course Assignments and My Solutions
+1. [Regression testing](https://docs.google.com/spreadsheets/d/1Xx7WPsmN0C60UlQie0SguknGAgc8iZvnEr6fkzl1pGo/edit?usp=sharing)
+2. [Identifying testing methods, types, and levels](https://docs.google.com/spreadsheets/d/1wlyhGb25i28ig9Us0P49BbbEV2vkhK8v5udwU3pm7qQ/edit?usp=sharing)
+3. [Analyzing requirements and UI mockups](https://docs.google.com/spreadsheets/d/1I_2PDgnj7ivFjVPWAxI7Yj3NZluOkd8ym-SiBGPS0ls/edit?usp=sharing)
+4. [Testing the registration form](https://docs.google.com/document/d/1-Dmh71CBq3Fvl8h-1oNd5jpmo6MR-kFZvnBwx3sfRVo/edit?usp=sharing)
+5. [Pairwise testing](https://docs.google.com/spreadsheets/d/1GsVWju4n6KakHfcJ6vqTlD-TD6mmD98GtJNqjZI4mRY/edit?usp=sharing)
+6. [Creating a checklist for testing registration and login](https://docs.google.com/spreadsheets/d/1jZCtj3zAXeGRnoyWjwMT0pKUzwRBvEvZ8alkkWkwG3E/edit?usp=sharing)
+7. [Creating test cases based on the registration checklist](https://docs.google.com/spreadsheets/d/1rIxLcgsMSxvmveTx4KuHSTwapTWkqPxCe40FQq_vbpk/edit?usp=sharing)
+8. [Creating bug reports for registration and login in JIRA](https://dinarasdaily.atlassian.net/jira/software/projects/HOME/boards/67)
+9. [Finding bugs in the shopping cart](https://drive.google.com/file/d/14NNFe1yd4YebaDDYDrhzooDTwSt_ClZU/view)
+10. [Checking XML for errors](https://docs.google.com/document/d/1Hd28vzkBXCACMqGuB3DBCKMwe2frhhLmAl42Ubd8kIo/edit?usp=sharing)
+11. [Using Postman for API testing](https://www.postman.com/dinaraadilbek-6824276/dinara-adilbek-s-workspace/example/45115661-4b116bec-028a-485c-8b5a-5ff266794b4e)
+12. [Testing SOAP service](https://www.postman.com/orange-spaceship-681091/soap-task/request/l4i2onh/country-name)
+13. [Running SELECT queries in MySQL](https://docs.google.com/spreadsheets/d/1LjORVZGvxowbRD-_BGhRr2q-FtN77524Xzs4wEzl-8s/edit?usp=sharing)
+14. [Running JOIN queries in MySQL](https://docs.google.com/spreadsheets/d/19JlFfUnO6s4fPeIJ_SZE1JOEjGHucJjCNa4UhT8Zzdk/edit?usp=sharing)
+15. [Creating a collection in MongoDB](https://docs.google.com/spreadsheets/d/1QtD-zuL6DYwVlzGSlpBKw91-9tr3Cn-Jq1uOGP_ZLrk/edit?usp=sharing)
+16. [Creating a checklist and test cases for mobile application testing](https://docs.google.com/spreadsheets/d/1fUIjmmp0ZghQeYncv4QQZkMQYwZhdutGmxDACdtnIoo/edit?usp=sharing)(https://drive.google.com/file/d/1Q_OKMh6DvNhz60YVJeMwLhlr4M9Nsumo/view)
+
